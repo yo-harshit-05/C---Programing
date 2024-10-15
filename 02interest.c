@@ -1,7 +1,7 @@
 // Program to calculate simple and compoud interest 
 
 // Simple Interest
-/*#include <stdio.h>
+#include <stdio.h>
 int main(){
     float p,r,t,si;
     printf("Enter Principle Amount\n");
@@ -13,7 +13,7 @@ int main(){
     si=(p*r*t)/100;
     printf("The simple Interest Obtained is \n%f",si);
     return 0;
-}*/
+}
 
 //Compund Interest
 
