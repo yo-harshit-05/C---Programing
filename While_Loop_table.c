@@ -1,5 +1,7 @@
+
 // While loop
-/*#include <stdio.h>
+//Program to print table of a number
+#include <stdio.h>
 int main()
 {
     int i, a, j;
@@ -32,7 +34,7 @@ int main()
     }
     return 0;
 }
-*/
+// Program to print reverse table of a number
 #include <stdio.h>
 int main(){
     int i,a,j;
